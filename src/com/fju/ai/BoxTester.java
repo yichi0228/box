@@ -26,7 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class BoxTester {
+public class  BoxTester {
     public static void main(String[] args) {
         List<Box> boxes = new ArrayList<>();
         boxes.add(new Box1());
